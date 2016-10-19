@@ -50,14 +50,14 @@ THE SOFTWARE.
   <developers>
     <developer>
       <name>Many</name>
-      <id>kohsuke abayer dodok1 dty huybrechts mindless pgweiss stephenconnolly rseguy kutzi etc</id>
+      <id>patdhlk kohsuke abayer dodok1 dty huybrechts mindless pgweiss stephenconnolly rseguy kutzi etc</id>
     </developer>
   </developers>
 
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}-plugin.git</developerConnection>
-    <url>http://github.com/jenkinsci/${project.artifactId}-plugin</url>
+    <connection>scm:git:git://github.com/patdhlk/${project.artifactId}-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:patdhlk/${project.artifactId}-plugin.git</developerConnection>
+    <url>http://github.com/patdhlk/${project.artifactId}-plugin</url>
     <tag>HEAD</tag>
   </scm>
 
@@ -189,5 +189,4 @@ THE SOFTWARE.
       </plugin>
     </plugins>
   </build>
-
 </project>
